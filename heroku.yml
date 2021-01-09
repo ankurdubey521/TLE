@@ -1,0 +1,4 @@
+build:
+  docker:
+    discord-tle-bot: Dockerfile
+
